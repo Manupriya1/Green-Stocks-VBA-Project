@@ -17,22 +17,22 @@ As we can see from the pictures below:
 
 In nutshell, investing in ENPH instead of DQ will be a good decision. 
 
-### Refactoring Performance:
+### 2. Refactoring Performance:
 
 The code ran much faster when refactored (images below).
 
-#### Run time with Original Code:
+#### 2(a) Run time with Original Code:
 <img width="234" alt="Original Code Timing" src="https://user-images.githubusercontent.com/69255270/112768216-ca4d5500-8fcf-11eb-84cb-a384b87a34cb.png">          <img width="247" alt="Original Code Timing1" src="https://user-images.githubusercontent.com/69255270/112768219-cde0dc00-8fcf-11eb-8a3c-2d65c6ba3e27.png">
 
-#### Run time with Refactored Code:
+#### 2(b) Run time with Refactored Code:
 <img width="304" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/69255270/112768550-60ce4600-8fd1-11eb-9356-6c5536253c19.png">           <img width="304" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/69255270/112768477-18168d00-8fd1-11eb-9966-a129058c3e78.png"> 
 
 This happens because in refactor code, I used arrays that eliminate the need of nested loops that we used in the original code. As you can see in the images below that refactored code is easier to understand and execute, hence it takes less time. 
 
-###### Original Code
+##### 2(c) Original Code
 <img width="490" alt="original Code" src="https://user-images.githubusercontent.com/69255270/112768054-e7cdef00-8fce-11eb-9a77-64d7ee474d96.png">
 
-###### Refactored Code
+###### 2(d) Refactored Code
 <img width="500" alt="Refactored Code" src="https://user-images.githubusercontent.com/69255270/112768419-e998b200-8fd0-11eb-8371-3e5c26929c95.png">
 
 ## Summary: 
