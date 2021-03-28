@@ -1,6 +1,3 @@
-<img width="304" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/69255270/112768477-18168d00-8fd1-11eb-9966-a129058c3e78.png">
-<img width="304" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/69255270/112768495-25337c00-8fd1-11eb-98b1-0a13aa3eecb1.png">
-<img width="304" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/69255270/112768505-2d8bb700-8fd1-11eb-98b9-c406ebfc8cc0.png">
 # UCB-Excel-Project
 ## Green Stock Investment with VBA
 
@@ -28,8 +25,8 @@ The code ran much faster when refactored (images below).
 <img width="234" alt="Original Code Timing" src="https://user-images.githubusercontent.com/69255270/112768216-ca4d5500-8fcf-11eb-84cb-a384b87a34cb.png">          <img width="247" alt="Original Code Timing1" src="https://user-images.githubusercontent.com/69255270/112768219-cde0dc00-8fcf-11eb-8a3c-2d65c6ba3e27.png">
 
 #### Run time with Refactored Code:
+<img width="304" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/69255270/112768477-18168d00-8fd1-11eb-9966-a129058c3e78.png">            <img width="304" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/69255270/112768550-60ce4600-8fd1-11eb-9356-6c5536253c19.png">
 
-<img width="500" alt="Refactored Code" src="https://user-images.githubusercontent.com/69255270/112768419-e998b200-8fd0-11eb-8371-3e5c26929c95.png">
 
 
 This happens because in refactor code, I used arrays that eliminate the need of nested loops that we used in the original code. As you can see in the images below that refactored code is easier to understand and execute, hence it takes less time. 
@@ -38,7 +35,7 @@ This happens because in refactor code, I used arrays that eliminate the need of 
 <img width="490" alt="original Code" src="https://user-images.githubusercontent.com/69255270/112768054-e7cdef00-8fce-11eb-9a77-64d7ee474d96.png">
 
 ###### Refactored Code
-<img width="500" alt="Refactored Code" src="https://user-images.githubusercontent.com/69255270/112768055-eac8df80-8fce-11eb-9a2b-2f0ce8452aab.png">
+<img width="500" alt="Refactored Code" src="https://user-images.githubusercontent.com/69255270/112768419-e998b200-8fd0-11eb-8371-3e5c26929c95.png">
 
 ## Summary: 
 In this project the results are obtained by refactoing the code and then comparing the results with the original code. 
