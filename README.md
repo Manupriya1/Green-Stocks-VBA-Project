@@ -32,6 +32,7 @@ This happens because in refactor code, I used arrays that eliminate the need of 
 
 ###### Original Code
 <img width="490" alt="original Code" src="https://user-images.githubusercontent.com/69255270/112768054-e7cdef00-8fce-11eb-9a77-64d7ee474d96.png">
+
 ###### Refactored Code
 <img width="500" alt="Refactored Code" src="https://user-images.githubusercontent.com/69255270/112768055-eac8df80-8fce-11eb-9a2b-2f0ce8452aab.png">
 
