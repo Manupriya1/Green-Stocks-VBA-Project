@@ -9,7 +9,7 @@ The results are obtained by refactoring a code and the results were compared wit
 ## Results
 ### 1. Stock performance:
 As we can see from the pictures below:
-- Year 2017 was a good year over all as compared to 2018. 
+- Year 2017 was  over all a good year as compared to 2018. 
 - DQ was the best performing stock in 2017 but it didn't do so well in 2018. 
 - ENPH has consistenty performed well over two years. 
 
@@ -17,7 +17,7 @@ As we can see from the pictures below:
 
 <img width="304" alt="Results 2018" src="https://user-images.githubusercontent.com/69255270/112765901-35912a00-8fc4-11eb-909c-230e30fe8c53.png">
 
-In nutshell, investing in ENPH instead of DQ will b a good decision. 
+In nutshell, investing in ENPH instead of DQ will be a good decision. 
 
 ### Refactoring Performance:
 
