@@ -13,9 +13,7 @@ As we can see from the pictures below:
 - DQ was the best performing stock in 2017 but it didn't do so well in 2018. 
 - ENPH has consistenty performed well over two years. 
 
-<img width="304" alt="Results 2017" src="https://user-images.githubusercontent.com/69255270/112765896-345ffd00-8fc4-11eb-87e2-9b59a3dc8ebe.png">
-
-<img width="304" alt="Results 2018" src="https://user-images.githubusercontent.com/69255270/112765901-35912a00-8fc4-11eb-909c-230e30fe8c53.png">
+<img width="304" alt="Results 2017" src="https://user-images.githubusercontent.com/69255270/112765896-345ffd00-8fc4-11eb-87e2-9b59a3dc8ebe.png">                 <img width="304" alt="Results 2018" src="https://user-images.githubusercontent.com/69255270/112765901-35912a00-8fc4-11eb-909c-230e30fe8c53.png">
 
 In nutshell, investing in ENPH instead of DQ will be a good decision. 
 
@@ -24,11 +22,11 @@ In nutshell, investing in ENPH instead of DQ will be a good decision.
 The code ran much faster when refactored (images below).
 
 #### Run time with Original Code:
-<img width="234" alt="Original Code Timing" src="https://user-images.githubusercontent.com/69255270/112768216-ca4d5500-8fcf-11eb-84cb-a384b87a34cb.png"> <img width="247" alt="Original Code Timing1" src="https://user-images.githubusercontent.com/69255270/112768219-cde0dc00-8fcf-11eb-8a3c-2d65c6ba3e27.png">
+<img width="234" alt="Original Code Timing" src="https://user-images.githubusercontent.com/69255270/112768216-ca4d5500-8fcf-11eb-84cb-a384b87a34cb.png">          <img width="247" alt="Original Code Timing1" src="https://user-images.githubusercontent.com/69255270/112768219-cde0dc00-8fcf-11eb-8a3c-2d65c6ba3e27.png">
 
 #### Run time with Refactored Code:
 
-<img width="304" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/69255270/112767924-38911800-8fce-11eb-9adc-202011edd78f.png"> <img width="304" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/69255270/112767930-3b8c0880-8fce-11eb-895c-fb93ae0bba2a.png">
+<img width="304" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/69255270/112767924-38911800-8fce-11eb-9adc-202011edd78f.png">            <img width="304" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/69255270/112767930-3b8c0880-8fce-11eb-895c-fb93ae0bba2a.png">
 
 This happens because in refactor code, I used arrays that eliminate the need of nested loops that we used in the original code. As you can see in the images below that refactored code is easier to understand and execute, hence it takes less time. 
 
