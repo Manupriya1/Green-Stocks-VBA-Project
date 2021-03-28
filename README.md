@@ -23,13 +23,12 @@ In nutshell, investing in ENPH instead of DQ will be a good decision.
 
 The code ran much faster when refactored (images below).
 
-#### Run with with Original Code:
+#### Run time with Original Code:
+<img width="234" alt="Original Code Timing" src="https://user-images.githubusercontent.com/69255270/112768216-ca4d5500-8fcf-11eb-84cb-a384b87a34cb.png"> <img width="247" alt="Original Code Timing1" src="https://user-images.githubusercontent.com/69255270/112768219-cde0dc00-8fcf-11eb-8a3c-2d65c6ba3e27.png">
+
+#### Run time with Refactored Code:
+
 <img width="304" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/69255270/112767924-38911800-8fce-11eb-9adc-202011edd78f.png">
-
-<img width="247" alt="Original Code Timing1" src="https://user-images.githubusercontent.com/69255270/112768219-cde0dc00-8fcf-11eb-8a3c-2d65c6ba3e27.png">
-
-#### Run with with Refactored Code:
-<img width="234" alt="Original Code Timing" src="https://user-images.githubusercontent.com/69255270/112768216-ca4d5500-8fcf-11eb-84cb-a384b87a34cb.png">
 
 <img width="304" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/69255270/112767930-3b8c0880-8fce-11eb-895c-fb93ae0bba2a.png">
 
