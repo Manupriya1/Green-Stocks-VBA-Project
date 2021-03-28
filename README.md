@@ -50,4 +50,11 @@ In this project the results are obtained by refactoing the code and then compari
 - it is not necessary if the program is already running efficiently. 
 -
 ### Pros and cons apply to refactoring the original VBA script?
+  #### Pros:
+   - Reduced the run time 8 time
+   - Refactor code is easy to understand and easy to debug
+  #### Cons:
+   - It is time consuming
+   - More chances to make a misake if we don't understand the basic concept behind the problem
+   
 
