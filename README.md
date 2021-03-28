@@ -48,7 +48,7 @@ In this project the results are obtained by refactoing the code and then compari
 - It doesn't provide additional insight into data
 - It doesn't improve the features of the output. 
 - it is not necessary if the program is already running efficiently. 
--
+
 ### Pros and cons apply to refactoring the original VBA script?
   #### Pros:
    - Reduced the run time 8 time
