@@ -7,7 +7,7 @@ I used Visual Basic for Application  (VBA) to analyze a stocks data with a goal 
 The results are obtained by refactoring a code and the results were compared with the original code. 
 
 ## Results
-### Stock performance:
+### 1. Stock performance:
 As we can see from the pictures below:
 - Year 2017 was a good year over all as compared to 2018. 
 - DQ was the best performing stock in 2017 but it didn't do so well in 2018. 
