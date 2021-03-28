@@ -28,14 +28,13 @@ The code ran much faster when refactored (images below).
 
 #### Run time with Refactored Code:
 
-<img width="304" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/69255270/112767924-38911800-8fce-11eb-9adc-202011edd78f.png">
-
-<img width="304" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/69255270/112767930-3b8c0880-8fce-11eb-895c-fb93ae0bba2a.png">
+<img width="304" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/69255270/112767924-38911800-8fce-11eb-9adc-202011edd78f.png"> <img width="304" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/69255270/112767930-3b8c0880-8fce-11eb-895c-fb93ae0bba2a.png">
 
 This happens because in refactor code, I used arrays that eliminate the need of nested loops that we used in the original code. As you can see in the images below that refactored code is easier to understand and execute, hence it takes less time. 
 
+###### Original Code
 <img width="490" alt="original Code" src="https://user-images.githubusercontent.com/69255270/112768054-e7cdef00-8fce-11eb-9a77-64d7ee474d96.png">
-
+###### Refactored Code
 <img width="500" alt="Refactored Code" src="https://user-images.githubusercontent.com/69255270/112768055-eac8df80-8fce-11eb-9a2b-2f0ce8452aab.png">
 
 ## Summary: 
