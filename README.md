@@ -14,11 +14,13 @@ As we can see from the pictures below:
 - ENPH has consistenty performed well over two years. 
 In nutshell, investing in ENPH instead of DQ will b a good decision. 
 
+### Refactoring Performance:
+
+The code ran much faster when refactored (images below).
+
 <img width="304" alt="Results 2017" src="https://user-images.githubusercontent.com/69255270/112765896-345ffd00-8fc4-11eb-87e2-9b59a3dc8ebe.png">
 
 <img width="304" alt="Results 2018" src="https://user-images.githubusercontent.com/69255270/112765901-35912a00-8fc4-11eb-909c-230e30fe8c53.png">
-
-### Refactoring Performance:
 
 
 
