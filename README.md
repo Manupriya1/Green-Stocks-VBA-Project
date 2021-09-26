@@ -1,5 +1,4 @@
-# UCB-Excel-Project
-## Green Stock Investment with VBA
+# Green Stock Investment with VBA
 
 ## Overview of Project
 I used Visual Basic for Application  (VBA) to analyze a stocks data with a goal to choose a profitable stock for investment. I used prescarpped dataset of 12 stocks and analyzed their performance (Total Volume and Return) over two years (2017 and 2018). The client is especially interested in knowing the performance of DQ stock. 
